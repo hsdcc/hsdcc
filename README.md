@@ -1,4 +1,8 @@
-## Hi there 👋
+## hey 👋
+
+currently working on : [hsdwm](https://github.com/hsdcc/hsdwm) and [its statusbar](https://github.com/hsdcc/statusbar-hsdwm)
+![preview](a.png)
+
 
 <!--
 **hsdcc/hsdcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
