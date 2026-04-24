@@ -1,6 +1,6 @@
 ## hey 👋
 
-currently working on : [hsdwm](https://github.com/hsdcc/hsdwm) and [its statusbar](https://github.com/hsdcc/statusbar-hsdwm)
+cool projects : [hsdwm](https://github.com/hsdcc/hsdwm) and [its statusbar](https://github.com/hsdcc/statusbar-hsdwm)
 ![preview](a.png)
 
 
