@@ -1,6 +1,5 @@
 ## hey 👋
-
-cool projects : [hsdwl](https://github.com/hsdcc/hsdwl)
+[hsdwl](https://github.com/hsdcc/hsdwl)
 ![hsdwl](https://github.com/hsdcc/hsdwl/raw/main/.assets/hsdwl.gif)
 
 
