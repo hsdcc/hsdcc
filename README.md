@@ -1,7 +1,7 @@
 ## hey 👋
 
-cool projects : [hsdwm](https://github.com/hsdcc/hsdwm) and [its statusbar](https://github.com/hsdcc/statusbar-hsdwm)
-![preview](a.png)
+cool projects : [hsdwl](https://github.com/hsdcc/hsdwl)
+![hsdwl](https://github.com/hsdcc/hsdwl/raw/main/.assets/hsdwl.gif)
 
 
 <!--
